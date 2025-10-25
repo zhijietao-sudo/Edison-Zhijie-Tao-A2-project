@@ -1,5 +1,7 @@
 Emotional Music Generator
+
 Project Overview
+
 This is an Adaptive Music Therapy Generator prototype developed for the 52685 Working with Data and Code assessment . The project uses Python in TunePad to create dynamic, mood-based music compositions inspired by music therapy principles (e.g., slow tempos for 'down' moods to calm , intense rhythms for 'angry' to release tension ). It maps moods ('happy', 'energetic', 'down', 'angry') to algorithmic adjustments in tempo, scales, chords, volume, and drum patterns, with randomness for replayability and therapeutic variety.
 
 
